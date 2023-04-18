@@ -1,3 +1,9 @@
+![image](https://user-images.githubusercontent.com/110921145/232880600-eb6ca9f9-2b5b-4d29-8682-ea1fa3ad7a86.png)
+
+
+
+
+
 This is a simple React Animations application.
 It is done through the Udemy.com course React-The Complete Guide(incl Hooks, React Router, Redux)
 by Maximilian Schwarzmuller.
